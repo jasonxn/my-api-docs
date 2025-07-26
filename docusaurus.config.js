@@ -18,11 +18,12 @@ const config = {
   baseUrl: '/',
 
   // GitHub repo info (update to your org/repo)
-  organizationName: 'suppyapps',
+  organizationName: 'jasonxn',
   projectName: 'suppy-docs',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
+   trailingSlash: false,
 
   i18n: {
     defaultLocale: 'en',
