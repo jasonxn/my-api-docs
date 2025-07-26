@@ -1,0 +1,22 @@
+# Query: fav
+# ContextLines: 1
+
+4 results - 2 files
+
+docusaurus.config.js:
+  14    tagline: '---',
+  15:   favicon: 'static\img\a0AN200000TFqonMAD_org.ico',
+  16  
+
+package-lock.json:
+   1792        "resolved": "https://registry.npmjs.org/@babel/runtime-corejs3/-/runtime-corejs3-7.28.2.tgz",
+   1793:       "integrity": "sha512-FVFaVs2/dZgD3Y9ZD+AKNKjyGKzwu0C54laAXWUXgLcVXcCX6YZ6GhK2cp7FogSN2OA0Fu+QT8dP3FUdo9ShSQ==",
+   1794        "dependencies": {
+
+   5893        "resolved": "https://registry.npmjs.org/core-js-compat/-/core-js-compat-3.44.0.tgz",
+   5894:       "integrity": "sha512-JepmAj2zfl6ogy34qfWtcE7nHKAJnKsQFRn++scjVS2bZFllwptzw61BZcZFYBPpUznLfAvh0LGhxKppk04ClA==",
+   5895        "dependencies": {
+
+  14360        "resolved": "https://registry.npmjs.org/encodeurl/-/encodeurl-1.0.2.tgz",
+  14361:       "integrity": "sha512-TPJXq8JqFaVYm2CWmPvnP2Iyo4ZSM7/QKcSmuMLDObfpH5fi7RUGmd/rTDf+rut/saiDiQEeVTNgAmJEdAOx0w==",
+  14362        "engines": {
